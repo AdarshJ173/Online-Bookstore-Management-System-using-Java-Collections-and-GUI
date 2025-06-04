@@ -24,7 +24,7 @@
 ### 🔧 Installation & Running
 
 1. **Clone the repository**
-   ```bash
+   ```bash t
    git clone https://github.com/AdarshJ173/Online-Bookstore-Management-System-using-Java-Collections-and-GUI.git
    cd Online-Bookstore-Management-System-using-Java-Collections-and-GUI
    ```
@@ -209,6 +209,26 @@ try {
         "Checkout Error", JOptionPane.ERROR_MESSAGE);
 }
 ```
+
+## 📊 UML Diagram
+
+The following UML diagram illustrates the relationships between the classes in the Online Bookstore Management System:
+
+![UML Diagram](uml_diagram.svg)
+
+## 📱 Application Screenshots
+
+### Book Browsing and Cart Interface
+![Browse Books Interface](1.png)
+
+### Adding Books to Cart
+![Adding to Cart](2.png)
+
+### Cart Management and Checkout
+![Cart Management](3.png)
+
+### Checkout Process
+![Checkout Process](4.png)
 
 ## 🤝 Contributing
 
